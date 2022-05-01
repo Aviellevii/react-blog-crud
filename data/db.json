@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome Party",
+      "body": "lorem inputs...",
+      "author": "luigi",
+      "id": 2
+    },
+    {
+      "title": "i love learn react",
+      "body": "lorem inputs...",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "fdg",
+      "body": "hsg",
+      "author": "luigi",
+      "id": 5
+    }
+  ]
+}
